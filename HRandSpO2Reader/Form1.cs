@@ -615,6 +615,11 @@ namespace HRandSpO2Reader
             Application.Exit();
         }
 
+        private void mainPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
 
